@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course and a guide to participant observation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
